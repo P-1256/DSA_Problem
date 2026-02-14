@@ -6,7 +6,7 @@ int main(){
     int a, d, b;
     cin>>a>>d>>b;
 
-    int evenSum=0;
+    long long evenSum=0;
     cout<<"Sequence: ";
     for(int i=a; i<=b; i+=d){
 
